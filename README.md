@@ -6,7 +6,7 @@
 
 A full-stack food delivery platform where users can browse dishes, search and filter by category, pay securely via Razorpay, and track their orders — with a dedicated admin panel to manage the menu and update order statuses.
 
-🔗 **Live Demo:** [tomato-frontend.vercel.app](https://your-app.vercel.app) &nbsp;|&nbsp; **Admin Panel:** [tomato-admin.vercel.app](https://your-admin.vercel.app)
+🔗 **Live Demo:** [tomato-frontend.vercel.app](https://food-del-seven-nu.vercel.app/) &nbsp;|&nbsp; **Admin Panel:** [tomato-admin.vercel.app](https://food-del-o4lf.vercel.app/add)
 
 ---
 
