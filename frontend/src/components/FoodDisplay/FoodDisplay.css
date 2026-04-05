@@ -12,3 +12,22 @@
     gap: 30px;
     row-gap: 50px;
 }
+
+
+.food-display-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: #777;
+  grid-column: 1 / -1; /* span full width if inside a grid */
+}
+
+.food-display-empty p {
+  font-size: 18px;
+  margin-bottom: 8px;
+  color: #444;
+}
+
+.food-display-empty span {
+  font-size: 14px;
+  color: #aaa;
+}
