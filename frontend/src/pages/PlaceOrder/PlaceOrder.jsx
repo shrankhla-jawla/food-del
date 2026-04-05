@@ -1,7 +1,7 @@
 // PlaceOrder.jsx — replaces Stripe redirect with Razorpay popup checkout
 import React, { useContext, useState } from "react";
 import "./PlaceOrder.css";
-import { StoreContext } from "../../context/StoreContext";
+import { StoreContext } from "../../Context/StoreContext";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
